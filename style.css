@@ -1,0 +1,19 @@
+body {
+    background: rgb(73, 215, 12);
+    padding:  20px;
+    /*border-radius: 10px;*/
+    border: 1px solid gray;
+    width: 600px;
+    text-align: center;
+}
+h1 {color: red;
+
+}
+img{
+    width: 10cm;
+    height: 10cm;
+}
+marquee {
+    font-size: large;
+    color: blue;
+}
